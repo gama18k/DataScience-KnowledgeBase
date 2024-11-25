@@ -1,7 +1,7 @@
-# Data Science Knowledge Base 📘
+# Data Science Knowledge Base
 
 Bem-vindo à **Base de Conhecimento em Data Science**, um repositório criado para centralizar conceitos e códigos mais usados no campo de Data Science. 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 - **`Numpy`**: Biblioteca fundamental para cálculo numérico em Python. Contém funções eficientes para manipulação de arrays, álgebra linear, operações estatísticas e mais.
     - Exemplos de operações básicas, manipulação de arrays, e cálculo de estatísticas.

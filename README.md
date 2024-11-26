@@ -9,6 +9,9 @@ Bem-vindo à **Base de Conhecimento em Data Science**, um repositório criado pa
 - **`Pandas`**: Ferramenta essencial para manipulação e análise de dados. A biblioteca fornece estruturas como DataFrames e Series para facilitar a leitura, transformação e limpeza de dados.
     - Exemplos de leitura de arquivos CSV, manipulação de dados ausentes, e agrupamentos.
 
-- **`Seaborn e Matplotlib`** (em breve): Bibliotecas de visualização de dados. O **Matplotlib** é a base para visualizações estáticas, enquanto o **Seaborn** proporciona uma interface mais intuitiva para gráficos estatísticos.
+- **`Matplotlib`**: Biblioteca base para visualização de dados estáticos. Permite criar gráficos de linha, barras, dispersão, histogramas, entre outros.
     - Exemplos de criação de gráficos como histogramas, gráficos de dispersão e gráficos de linha.
+  
+- **`Seaborn`**: Biblioteca construída sobre o Matplotlib, oferece uma interface mais intuitiva e gráficos estatísticos avançados. Ideal para visualizações mais detalhadas, como gráficos de distribuição e gráficos categóricos.
+    - Exemplos de criação de gráficos como boxplots, violin plots, gráficos de distribuição e mapas de calor.
   
